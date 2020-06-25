@@ -8,7 +8,9 @@ output:
 ## Computing for the Social Sciences
 ### Homework 1
 
-Hey, I'm **Caleb Weis**. I am a rising third-year in The College, and an Economics and Math major. I am interested in potentially doing economics research after I finish school--that is, if my professional acting career doesn't take off. I am an avid soccer player, and played competitively until the age of 19. My favorite professional soccer teams are:
+![Profile Picture](IMG_7332.JPG)
+
+Hey, I'm **Caleb Weis** (the one on the left--I'm 21, not 61!). I am a rising third-year in The College, and an Economics and Math major. I am interested in potentially doing economics research after I finish school--that is, if my professional acting career doesn't take off. I am an avid soccer player, and played competitively until the age of 19. My favorite professional soccer teams are:
 
  * Manchester United
  * Real Madrid
